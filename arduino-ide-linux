@@ -1,0 +1,25 @@
+as root:
+
+1. ./arduino-linux-setup.sh $USER
+2. ./install.sh
+
+3. arduino
+
+4. Settings:
+
+    Nano
+    ATMega328 -old bootloader
+    AVR ISP
+
+5.  Libraries
+	Oscillator.zip
+	Otto.zip
+Load library zip files:
+
+Additionally: the .h and .cpp are here:
+
+https://github.com/OttoDIY/Libraries
+
+These robots are already programmed. 
+However, to change to calibration or another song... you must have the library installed.
+
